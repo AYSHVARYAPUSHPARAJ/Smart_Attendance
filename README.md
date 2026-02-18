@@ -24,12 +24,12 @@ cd smart-attendance
 2. **Install Python dependencies:**
 pip install opencv-python numpy tk
 
-3.**Create the database:**
+3. **Create the database:**
 python database.py
 python create_students.py
 
-4.**Train the face recognition model:**
+4. **Train the face recognition model:**
 python train_model.py
 
-5.**Run the system:**
+5. **Run the system:**
 python run_attendance.py
