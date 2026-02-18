@@ -31,20 +31,5 @@ python create_students.py
 4.**Train the face recognition model:**
 python train_model.py
 
-
-## ** Project Structure**
-
-smart-attendance/
-├── attendance_window.py
-├── dashboard.py
-├── database.py
-├── create_students.py
-├── train_model.py
-├── recognize.py
-├── run_attendance.py
-├── dataset/          
-└── README.md
-
-Run the system:
-
+5.**Run the system:**
 python run_attendance.py
